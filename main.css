@@ -1,0 +1,163 @@
+body {
+    background-image: url("https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/hero-background.jpg");
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+    font-size: 25px;
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+ul2{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    list-style-type: none;
+}
+
+.btn {
+    background-color: red;
+    color: white;
+    width: 75px;
+    height: 33px;
+    border: 1px;
+    border-radius: 4px;
+    font-size: 20px;
+    cursor: pointer;
+    position: relative;
+    top: -70px;
+    left: 90%;
+    text-align: center;
+    padding: 2px;
+}
+
+a:visited{
+    color: white;
+}
+
+ul {
+    font-size: 50px;
+    color: white;
+    list-style-type: none;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.free{
+    color: lightgreen;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    width: 200px;
+    margin-inline-start: 100px;
+}
+
+.october{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+    bottom: 30px;
+    position: relative;
+    left: 575px;
+}
+
+.november{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+    bottom: 55px;
+    position: relative;
+    left: 950px;
+}
+
+.bar {
+    height: 40px;
+    width: 95%;
+    background-color:green;
+    color:lightgreen;
+    border-radius: 25px;
+    background: linear-gradient(to left, rgba(255,255,255,0), rgba(255,255,255,1));
+}
+
+.circle1 {
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    top: -38px;
+    left: 655px;
+  }
+
+.circle2 {
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    top: -73px;
+    left: 1040px;
+  }
+
+.envelope {
+    background: none;
+    position: relative;
+    top: -45px;
+    left: 600px;
+}
+
+h2 {    
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: -200px;
+    left: 650px;
+}
+
+/* br {
+    height: 10px;
+} */
+
+.btn2{
+    color: white;
+    background-color: red;
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 15px;
+    border: 10px;
+    position: relative;
+    left: 520px;
+}
+
+.line{
+    width: 2px;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+    height: 55px;
+    position: relative;
+    left: 46%;
+    margin-left: -3px;
+    top: -373px;        
+}
+
+
+
+
+
+
+
